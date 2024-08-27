@@ -1,2 +1,2 @@
 # © 2013. Родовые Истоки. Все права защищены.
-https://saydum.github.io/rodovyeistoki.ru/
+https://rodipriroda.github.io/rodovyeistoki.ru/
